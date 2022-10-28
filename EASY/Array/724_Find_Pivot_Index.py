@@ -20,7 +20,7 @@ class Solution:
                 sum_i += nums[i]
         return -1
 
-# understanable_way
+# using left-right as the question demands!
 
 class Solution:
     def pivotIndex(self, nums: List[int]) -> int:
