@@ -1,1 +1,0 @@
-### Easy Array Leetcode problems 
