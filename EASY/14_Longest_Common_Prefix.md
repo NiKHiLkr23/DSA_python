@@ -13,7 +13,7 @@ Terminate in case any if the i<sup>th</sup> index charaters doesn't match.
 > worst-case all the strings in strs-List are same 
 
 *M is the sum of all the characters in all strings in strs-List.*
-```
+```python
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
         if (len(strs) == 0):
