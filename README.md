@@ -23,3 +23,6 @@ This Repository contains Leetcode problems which I have solved/completed.
 
 118 | &emsp; Pascal's Triangle &ensp; [LeetCode](https://leetcode.com/problems/pascals-triangle/) &ensp; [*Solution*](https://github.com/NiKHiLkr23/DSA_python/blob/main/EASY/118_Pascals_Triangle.md)
 
+136 | &emsp; Single Number &ensp; [LeetCode](https://leetcode.com/problems/single-number/) &ensp; [*Solution*](https://github.com/NiKHiLkr23/DSA_python/blob/main/EASY/136_single_number.md)
+
+169 | &emsp; Majority Element &ensp; [LeetCode](https://leetcode.com/problems/majority-element/) &ensp; [*Solution*](https://github.com/NiKHiLkr23/DSA_python/blob/main/EASY/169_Majority_Element.md)
